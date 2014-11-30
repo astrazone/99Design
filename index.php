@@ -9,5 +9,3 @@
 require_once "config.php";
 
 $Logger->error("Test Array : ", ["alrex" => "Hello"]);
-
-test
